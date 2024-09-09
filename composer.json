@@ -201,6 +201,8 @@
     "wpackagist-plugin/flexible-table-block": "*",
     "wpackagist-plugin/instagram-feed": "*",
     "wpackagist-plugin/loginizer": "*",
+    "wpackagist-plugin/mw-wp-form": "5.0.4",
+    "wpackagist-plugin/recaptcha-for-mw-wp-form": "*",
     "wpackagist-plugin/my-calendar": "*",
     "wpackagist-plugin/post-types-order": "*",
     "wpackagist-plugin/reusable-blocks-extended": "*",
